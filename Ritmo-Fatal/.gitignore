@@ -23,8 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 *.mp4
-*.jpg
-*.jpeg
-public
 
-Ritmo-Fatal/public/images/
+
+
