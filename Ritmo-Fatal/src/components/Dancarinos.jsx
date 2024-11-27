@@ -3,7 +3,7 @@ export default function Dancarinos() {
     <section className="bg-cinza flex flex-wrap items-center gap-5 m-5 p-10">
 
       <div className="relative h-[412px] w-[280px]">
-        <img src="/images/dançarinos/katarina.jpg" className="w=[180px] h-[320px] top-0 left-0"  />
+        <img src="public/images/dancarinos/katarina.jpg" className="w=[180px] h-[320px] top-0 left-0"  />
 
         <div className="bg-bege-claro w-[250px] absolute p-5 bottom-0 right-0 ">
           <h1 className="text-cor text-xl">Katarina</h1>
@@ -12,7 +12,7 @@ export default function Dancarinos() {
       </div>
 
       <div className="relative h-[412px] w-[280px]">
-        <img src="/images/dançarinos/angela.jpg" className="w=[180px] h-[320px] top-0 left-0"  />
+        <img src="public/images/dancarinos/angela.jpg" className="w=[180px] h-[320px] top-0 left-0"  />
 
         <div className="bg-bege-claro w-[250px] absolute p-5 bottom-0 right-0 ">
           <h1 className="text-cor text-xl">Angela</h1>
@@ -21,7 +21,7 @@ export default function Dancarinos() {
       </div>
       
       <div className="relative h-[412px] w-[280px]">
-        <img src="/images/dançarinos/giovanni.jpg" className="w=[180px] h-[320px] top-0 left-0"  />
+        <img src="public/images/dancarinos/giovanni.jpg" className="w=[180px] h-[320px] top-0 left-0"  />
 
         <div className="bg-bege-claro w-[250px] absolute p-5 bottom-0 right-0 ">
           <h1 className="text-cor text-xl">Giovanni</h1>
@@ -29,7 +29,7 @@ export default function Dancarinos() {
         </div>
       </div>
       <div className="relative h-[412px] w-[280px]">
-        <img src="/images/dançarinos/patricia.jpg" className="w=[180px] h-[320px] top-0 left-0"  />
+        <img src="public/images/dancarinos/patricia.jpg" className="w=[180px] h-[320px] top-0 left-0"  />
 
         <div className="bg-bege-claro w-[250px] absolute p-5 bottom-0 right-0 ">
           <h1 className="text-cor text-xl">Patrícia</h1>
@@ -37,7 +37,7 @@ export default function Dancarinos() {
         </div>
       </div>
       <div className="relative h-[412px] w-[280px]">
-        <img src="/images/dançarinos/vanessa.jpg" className="w=[180px] h-[320px] top-0 left-0"  />
+        <img src="public/images/dancarinos/vanessa.jpg" className="w=[180px] h-[320px] top-0 left-0"  />
 
         <div className="bg-bege-claro w-[250px] absolute p-5 bottom-0 right-0 ">
           <h1 className="text-cor text-xl">Vanessa</h1>

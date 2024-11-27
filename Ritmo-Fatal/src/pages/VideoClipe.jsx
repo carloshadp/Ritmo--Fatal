@@ -17,7 +17,7 @@ export default function VideoClipe() {
         <h3 className="text-5xl text-center text-cor">Nosso Making Off!</h3>
       </div>
 
-      {/* <video controls  controlsList="nodownload" src="/video/making_off_versão_final.mp4" className="rounded-3xl tablet:max-w-[840px] tablet:max-h-[472px] mb-10"></video> */}
+      <video controls  controlsList="nodownload" src="https://www.youtube.com/embed/yS39KxQWm8k" className="rounded-3xl tablet:max-w-[840px] tablet:max-h-[472px] mb-10"></video>
     </div>
   );
 }
