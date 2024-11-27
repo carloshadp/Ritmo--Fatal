@@ -16,8 +16,14 @@ export default function VideoClipe() {
       <div className="mt-10">
         <h3 className="text-5xl text-center text-cor">Nosso Making Off!</h3>
       </div>
-
-      <video controls  controlsList="nodownload" src="https://www.youtube.com/embed/yS39KxQWm8k" className="rounded-3xl tablet:max-w-[840px] tablet:max-h-[472px] mb-10"></video>
+      <iframe
+        src="https://www.youtube.com/embed/yS39KxQWm8k"
+        title="Never Gonna Give You Up"
+        allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+        className="rounded-3xl tablet:min-w-[840px] tablet:min-h-[472px] mt-16"
+      ></iframe>
+      {/* <video controls  controlsList="nodownload" src="https://www.youtube.com/embed/yS39KxQWm8k" className="rounded-3xl tablet:max-w-[840px] tablet:max-h-[472px] mb-10"></video> */}
     </div>
   );
 }
