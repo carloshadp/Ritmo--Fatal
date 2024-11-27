@@ -1,162 +1,162 @@
 [
     {
         "id": 1,
-        "imagem": "/images/makingoff/1.jpg"
+        "imagem": "./images/makingoff/1.jpg"
     },
     {
         "id": 2,
-        "imagem": "/images/makingoff/2.jpg"
+        "imagem": "./images/makingoff/2.jpg"
     },
     {
         "id": 3,
-        "imagem": "/images/makingoff/3.jpg"
+        "imagem": "./images/makingoff/3.jpg"
     },
     {
         "id": 4,
-        "imagem": "/images/makingoff/4.jpg"
+        "imagem": "./images/makingoff/4.jpg"
     },
     {
         "id": 5,
-        "imagem": "/images/makingoff/5.jpg"
+        "imagem": "./images/makingoff/5.jpg"
     },
     {
         "id": 6,
-        "imagem": "/images/makingoff/6.jpg"
+        "imagem": "./images/makingoff/6.jpg"
     },
     {
         "id": 7,
-        "imagem": "/images/makingoff/7.jpg"
+        "imagem": "./images/makingoff/7.jpg"
     },
     {
         "id": 8,
-        "imagem": "/images/makingoff/8.jpg"
+        "imagem": "./images/makingoff/8.jpg"
     },
     {
         "id": 9,
-        "imagem": "/images/makingoff/9.jpg"
+        "imagem": "./images/makingoff/9.jpg"
     },
     {
         "id": 10,
-        "imagem": "/images/makingoff/10.jpg"
+        "imagem": "./images/makingoff/10.jpg"
     },
     {
         "id": 11,
-        "imagem": "/images/makingoff/11.jpg"
+        "imagem": "./images/makingoff/11.jpg"
     },
     {
         "id": 12,
-        "imagem": "/images/makingoff/12.jpg"
+        "imagem": "./images/makingoff/12.jpg"
     },
     {
         "id": 13,
-        "imagem": "/images/makingoff/13.jpg"
+        "imagem": "./images/makingoff/13.jpg"
     },
     {
         "id": 14,
-        "imagem": "/images/makingoff/14.jpg"
+        "imagem": "./images/makingoff/14.jpg"
     },
     {
         "id": 15,
-        "imagem": "/images/makingoff/15.jpg"
+        "imagem": "./images/makingoff/15.jpg"
     },
     {
         "id": 16,
-        "imagem": "/images/makingoff/16.jpg"
+        "imagem": "./images/makingoff/16.jpg"
     },
     {
         "id": 17,
-        "imagem": "/images/makingoff/17.jpg"
+        "imagem": "./images/makingoff/17.jpg"
     },
     {
         "id": 18,
-        "imagem": "/images/makingoff/18.jpg"
+        "imagem": "./images/makingoff/18.jpg"
     },
     {
         "id": 19,
-        "imagem": "/images/makingoff/19.jpg"
+        "imagem": "./images/makingoff/19.jpg"
     },
     {
         "id": 20,
-        "imagem": "/images/makingoff/20.jpg"
+        "imagem": "./images/makingoff/20.jpg"
     },
     {
         "id": 21,
-        "imagem": "/images/makingoff/21.jpg"
+        "imagem": "./images/makingoff/21.jpg"
     },
     {
         "id": 22,
-        "imagem": "/images/makingoff/22.jpg"
+        "imagem": "./images/makingoff/22.jpg"
     },
     {
         "id": 23,
-        "imagem": "/images/makingoff/23.jpg"
+        "imagem": "./images/makingoff/23.jpg"
     },
     {
         "id": 24,
-        "imagem": "/images/makingoff/24.jpg"
+        "imagem": "./images/makingoff/24.jpg"
     },
     {
         "id": 25,
-        "imagem": "/images/makingoff/25.jpg"
+        "imagem": "./images/makingoff/25.jpg"
     },
     {
         "id": 26,
-        "imagem": "/images/makingoff/26.jpg"
+        "imagem": "./images/makingoff/26.jpg"
     },
     {
         "id": 27,
-        "imagem": "/images/makingoff/27.jpg"
+        "imagem": "./images/makingoff/27.jpg"
     },
     {
         "id": 28,
-        "imagem": "/images/makingoff/28.jpg"
+        "imagem": "./images/makingoff/28.jpg"
     },
     {
         "id": 29,
-        "imagem": "/images/makingoff/29.jpg"
+        "imagem": "./images/makingoff/29.jpg"
     },
     {
         "id": 30,
-        "imagem": "/images/makingoff/30.jpg"
+        "imagem": "./images/makingoff/30.jpg"
     },
     {
         "id": 31,
-        "imagem": "/images/makingoff/31.jpg"
+        "imagem": "./images/makingoff/31.jpg"
     },
     {
         "id": 32,
-        "imagem": "/images/makingoff/32.jpg"
+        "imagem": "./images/makingoff/32.jpg"
     },
     {
         "id": 33,
-        "imagem": "/images/makingoff/33.jpg"
+        "imagem": "./images/makingoff/33.jpg"
     },
     {
         "id": 34,
-        "imagem": "/images/makingoff/34.jpg"
+        "imagem": "./images/makingoff/34.jpg"
     },
     {
         "id": 35,
-        "imagem": "/images/makingoff/35.jpg"
+        "imagem": "./images/makingoff/35.jpg"
     },
     {
         "id": 36,
-        "imagem": "/images/makingoff/36.jpg"
+        "imagem": "./images/makingoff/36.jpg"
     },
     {
         "id": 37,
-        "imagem": "/images/makingoff/37.jpg"
+        "imagem": "./images/makingoff/37.jpg"
     },
     {
         "id": 38,
-        "imagem": "/images/makingoff/38.jpg"
+        "imagem": "./images/makingoff/38.jpg"
     },
     {
         "id": 39,
-        "imagem": "/images/makingoff/39.jpg"
+        "imagem": "./images/makingoff/39.jpg"
     },
     {
         "id": 40,
-        "imagem": "/images/makingoff/40.jpg"
+        "imagem": "./images/makingoff/40.jpg"
     }
 ]
