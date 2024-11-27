@@ -3,7 +3,7 @@ export default function Banner() {
     <section className="relative grid items-center justify-center mx-3 my-5">
       <div className="relative">
         <img
-          src="..//src//Images//fotogrupo.jpg"
+          src="../../src/Images/fotogrupo.jpg"
           className="w-full h-[560px] rounded-3xl block"
         />
         <div className="absolute top-0 left-0 w-full h-full bg-black opacity-60 rounded-3xl"></div>
