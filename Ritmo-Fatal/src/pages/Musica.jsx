@@ -10,7 +10,7 @@ export default function Musica() {
       </div>
 
       <audio controls loop > 
-        <source src="/music/water-sound.mp3" type="audio/mp3" />
+        <source src="/music/musica.mp3" type="audio/mp3" />
       </audio>
     </div>
   );

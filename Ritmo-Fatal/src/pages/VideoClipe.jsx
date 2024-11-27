@@ -7,7 +7,7 @@ export default function VideoClipe() {
         <p className="font-helvetica text-[15px] text-lg text-center text-cor">Bem-vindos ao site oficial da Academia Ritmo Fatal. Ficamos muito felizes de ter você conosco!<br/>Clicando no vídeo abaixo, você poderá ver nosso videoclipe bla bla bla</p>
       </div>
       <iframe
-        src="https://www.youtube.com/embed/dQw4w9WgXcQ?start=42"
+        src="https://www.youtube.com/embed/CjrcYHh_Eic"
         title="Never Gonna Give You Up"
         allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowFullScreen
